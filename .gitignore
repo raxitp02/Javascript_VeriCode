@@ -1,0 +1,12 @@
+apps/event_calendar_new/*
+videos/*
+node_modules/*
+pdfs/*
+*.pdf
+*.jpg
+*.gif
+*.swf
+*.bak
+*.zip
+*/spry/Spry_1.6/widgets/*
+common/etr/*.json
