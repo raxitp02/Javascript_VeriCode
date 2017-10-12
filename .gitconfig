@@ -1,0 +1,7 @@
+[user]
+	name = Raxit Patel
+	email = Raxit.Patel.Contractor@akc.org
+[alias]
+	co = checkout
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	stat = status
